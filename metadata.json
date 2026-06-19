@@ -1,0 +1,6 @@
+{
+  "name": "KosKuMakassar.com",
+  "description": "Aplikasi pencarian dan peta sebaran rumah kos di Makassar dengan filter jarak, lokasi, peta interaktif, harga, dan ketersediaan kamar.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
